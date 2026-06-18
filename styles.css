@@ -1,6 +1,6 @@
 body {background-color: #fff8e7;
 display: flex;
-justify-content:center; align-items:center; height:100hx;}
+justify-content:center; align-items:center; height:100vx; margin:0;}
 .blog-post-card {background-color:white;
 border-radius:10px; width:400px; text-align:center;}
 .post-img {width:100%; border-bottom:1px dashed black;}
